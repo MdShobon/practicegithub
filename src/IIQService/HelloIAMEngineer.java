@@ -8,6 +8,9 @@ public class HelloIAMEngineer {
 		// TODO Auto-generated method stub
 
 		System.out.println("Thank you for Trying!");
+		
+		System.out.println("This is my First git Practice project");
 	}
 
 }
+
